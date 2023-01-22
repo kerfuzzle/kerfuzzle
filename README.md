@@ -1,4 +1,4 @@
-<a href="https://discord.com/users/569822515401195520" target="_blank">
+<a target="_blank">
 	<img width="50%" align="centre" alt="Discord Status" src="https://lanyard.cnrad.dev/api/569822515401195520?bg=0d1117&borderRadius=5px">
 </a>
 <a href="https://wakatime.com/@kerfuzzle" target="_blank">
